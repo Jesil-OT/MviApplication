@@ -51,6 +51,7 @@ class MainActivity : AppCompatActivity() {
                     displayProgressBar(true)
                 }
             }.exhaustive
+
         })
     }
 

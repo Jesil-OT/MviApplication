@@ -7,7 +7,6 @@ import com.jesil.projectmvi.mviapplication.model.Blog
 import com.jesil.projectmvi.mviapplication.repository.MainRepository
 import com.jesil.projectmvi.mviapplication.utils.DataState
 import com.jesil.projectmvi.mviapplication.utils.MainStateEvent
-import com.jesil.projectmvi.mviapplication.utils.exhaustive
 import kotlinx.coroutines.flow.launchIn
 import kotlinx.coroutines.flow.onEach
 import kotlinx.coroutines.launch

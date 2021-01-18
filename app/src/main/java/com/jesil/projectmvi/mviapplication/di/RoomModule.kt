@@ -1,10 +1,7 @@
 package com.jesil.projectmvi.mviapplication.di
 
-import android.app.Application
 import android.content.Context
 import androidx.room.Room
-import androidx.room.RoomDatabase
-import com.jesil.projectmvi.mviapplication.room.BlogDao
 import com.jesil.projectmvi.mviapplication.room.BlogDatabase
 import dagger.Module
 import dagger.Provides
